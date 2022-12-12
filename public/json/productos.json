@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "idCategoria":1,
+        "nombre": "DIAMOND CHAIN IN ROSE GOLD",
+        "informacion": "Montado en oro rosa de 18k con 300 diamantes blancos",
+        "precio":512.020,
+        "stock": 25,
+        "img": "1.jpg"
+    },
+
+    {
+        "id":2,
+        "idCategoria":2,
+        "nombre": "SPIKE DIAMOND BRACELET",
+        "informacion": "Montado en oro rosado de 18k con 22 diamantes blancos",
+        "precio":250.050,
+        "stock": 30,
+        "img": "2.jpg"
+    },
+
+    {
+    "id":3,
+    "idCategoria":3,
+    "nombre": "NECKLACE IN ROSE GOLD",
+    "informacion": "Set en oro rosa de 18k con 60 diamantes blancos",
+    "precio":380.500,
+    "stock": 30,
+    "img": "3.jpg"
+
+},
+
+{
+    "id":4,
+    "idCategoria":4,
+    "nombre": "DIAMOND SPIKE ONE BRACELET",
+    "informacion": "Montado en oro rosa y oro blanco de 18k con 7 diamantes blancos",
+    "precio":155.420,
+    "stock": 30,
+    "img": "8.jpg"
+
+},
+
+{
+    "id":5,
+    "idCategoria":5,
+    "nombre": "NECKLACE IN WHITE GOLD FULL",
+    "informacion": "Necklace montado en oro blanco de 18K con 580 diamantes blancos",
+    "precio":965.150,
+    "stock": 10,
+    "img": "7.jpg"
+}
+]
