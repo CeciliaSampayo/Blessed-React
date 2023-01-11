@@ -1,4 +1,6 @@
-import React from 'react';
+import { Link } from "react-router-dom";
+import { FaBeer } from 'react-icons/fa';
+
 
 const CartWidget = () => {
     return (
@@ -6,7 +8,7 @@ const CartWidget = () => {
             <ul className='navbar-nav me-auto'>
             
                 <li className='nav-link'>
-                    <button className='btn btn-dark'>Carrito</button>
+                    <Link to={'/cart'}><button><FaBeer/></button></Link>
                 </li>
                 <p>0</p>
             </ul>
